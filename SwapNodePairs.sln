@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapNodePairs", "SwapNodePairs\SwapNodePairs.csproj", "{92AFD08D-2AD7-42D2-960C-B580DEA9C2AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapNodePairs.Tests", "SwapNodePairs.Tests\SwapNodePairs.Tests.csproj", "{58643F74-9A95-44CB-A06B-20B6ADEA89A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92AFD08D-2AD7-42D2-960C-B580DEA9C2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AFD08D-2AD7-42D2-960C-B580DEA9C2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AFD08D-2AD7-42D2-960C-B580DEA9C2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AFD08D-2AD7-42D2-960C-B580DEA9C2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58643F74-9A95-44CB-A06B-20B6ADEA89A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58643F74-9A95-44CB-A06B-20B6ADEA89A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58643F74-9A95-44CB-A06B-20B6ADEA89A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58643F74-9A95-44CB-A06B-20B6ADEA89A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {294C5336-AD55-436B-94D4-5609C22869F6}
+	EndGlobalSection
+EndGlobal
